@@ -2,22 +2,23 @@
 
 This repository contains my hands-on practice and learning in Data Analysis using Python.
 
-## 📌 Skills Covered
+ Skills Covered
 - Data Cleaning using Pandas
 - Data Manipulation & Grouping
 - Exploratory Data Analysis (EDA)
 - Data Visualization using Matplotlib
 - Basic Statistical Insights
 
-## 🎓 Certifications
+ Certifications
+- Python 101 for Data Science - (IBM SkillsBuild) 
 - Basics of Pandas – UniAthena (2026)
 - Basic Data Visualization – UniAthena (2026)
 
-## 🚀 Upcoming Projects
+ Upcoming Projects
 - IPL Match & Season-Level Data Analysis
 - Real-world dataset exploratory analysis
 
-## 👨‍💻 Author
+ Author
 Hardik Bhardwaj  
 B.Tech CSAM Student  
 Aspiring Data Analyst
